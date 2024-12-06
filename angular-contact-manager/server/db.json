@@ -1,0 +1,63 @@
+{
+    "contacts":[
+        {
+            "id": "1",
+            "name": "Sarfraz",
+            "company": "Icogz",
+            "email": "khansarfraz5346@gmail.com",
+            "title": "Developer",
+            "mobile": "9702225346",
+            "photo": "assets/photos/man-user-color-icon.png",
+            "groupId": "11"
+        },
+        {
+            "id": "2",
+            "name": "Sufiyan",
+            "company": "Icogz",
+            "email": "khansarfraz5346@gmail.com",
+            "title": "Developer",
+            "mobile": "9702225346",
+            "photo": "assets/photos/man-user-color-icon.png",
+            "groupId": "12"
+        },
+        {
+            "id": "3",
+            "name": "Sadique",
+            "company": "Icogz",
+            "email": "khansarfraz5346@gmail.com",
+            "title": "Developer",
+            "mobile": "9702225346",
+            "photo": "assets/photos/man-user-color-icon.png",
+            "groupId": "13"
+        },
+        {
+            "id": "4",
+            "name": "Juned",
+            "company": "Icogz",
+            "email": "khansarfraz5346@gmail.com",
+            "title": "Developer",
+            "mobile": "9702225346",
+            "photo": "assets/photos/man-user-color-icon.png",
+            "groupId": "14"
+        }
+    ],
+
+    "groups": [
+        {
+            "id": "11",
+            "name": "MCC"
+        },
+        {
+            "id": "12",
+            "name": "UI/UX"
+        },
+        {
+            "id": "13",
+            "name": "Pyzon"
+        },
+        {
+            "id": "14",
+            "name": "Leewayzon"
+        }
+    ]
+}
