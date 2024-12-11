@@ -1,63 +1,98 @@
 {
-    "contacts":[
-        {
-            "id": "1",
-            "name": "Sarfraz",
-            "company": "Icogz",
-            "email": "khansarfraz5346@gmail.com",
-            "title": "Developer",
-            "mobile": "9702225346",
-            "photo": "assets/photos/man-user-color-icon.png",
-            "groupId": "11"
-        },
-        {
-            "id": "2",
-            "name": "Sufiyan",
-            "company": "Icogz",
-            "email": "khansarfraz5346@gmail.com",
-            "title": "Developer",
-            "mobile": "9702225346",
-            "photo": "assets/photos/man-user-color-icon.png",
-            "groupId": "12"
-        },
-        {
-            "id": "3",
-            "name": "Sadique",
-            "company": "Icogz",
-            "email": "khansarfraz5346@gmail.com",
-            "title": "Developer",
-            "mobile": "9702225346",
-            "photo": "assets/photos/man-user-color-icon.png",
-            "groupId": "13"
-        },
-        {
-            "id": "4",
-            "name": "Juned",
-            "company": "Icogz",
-            "email": "khansarfraz5346@gmail.com",
-            "title": "Developer",
-            "mobile": "9702225346",
-            "photo": "assets/photos/man-user-color-icon.png",
-            "groupId": "14"
-        }
-    ],
-
-    "groups": [
-        {
-            "id": "11",
-            "name": "MCC"
-        },
-        {
-            "id": "12",
-            "name": "UI/UX"
-        },
-        {
-            "id": "13",
-            "name": "Pyzon"
-        },
-        {
-            "id": "14",
-            "name": "Leewayzon"
-        }
-    ]
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Sarfraz",
+      "company": "Icogz",
+      "email": "khansarfraz5346@gmail.com",
+      "title": "Developer",
+      "mobile": "9702225346",
+      "photo": "assets/photos/sarfraz_profile_image.png",
+      "groupId": "11"
+    },
+    {
+      "id": "2",
+      "name": "Sufiyan",
+      "company": "Icogz",
+      "email": "khansarfraz5346@gmail.com",
+      "title": "Developer",
+      "mobile": "9702225346",
+      "photo": "assets/photos/man-user-color-icon.png",
+      "groupId": "11"
+    },
+    {
+      "id": "3",
+      "name": "Sadique",
+      "company": "Icogz",
+      "email": "khansarfraz5346@gmail.com",
+      "title": "Developer",
+      "mobile": "9702225346",
+      "photo": "assets/photos/man-user-color-icon.png",
+      "groupId": "11"
+    },
+    {
+      "id": "4",
+      "name": "Juned",
+      "company": "Icogz",
+      "email": "khansarfraz5346@gmail.com",
+      "title": "Developer",
+      "mobile": "9702225346",
+      "photo": "assets/photos/man-user-color-icon.png",
+      "groupId": "11"
+    },
+    {
+      "id": "5",
+      "name": "Khalid",
+      "company": "Integri Chain",
+      "email": "khalidkhan@gmail.com",
+      "title": "Developer",
+      "mobile": "9702225346",
+      "photo": "assets/photos/man-user-color-icon.png",
+      "groupId": "11"
+    },
+    {
+      "id": "aba5",
+      "name": "Taiba",
+      "photo": "assets/photos/female_user_icon.png",
+      "email": "taibaqureshi@gmail.com",
+      "mobile": 8452921780,
+      "company": "Radiance",
+      "title": "Admin",
+      "groupId": "12"
+    },
+    {
+      "id": "50f5",
+      "name": "Afsar",
+      "photo": "https://cdn-icons-png.flaticon.com/512/5234/5234205.png",
+      "email": "afsar@gmail.com",
+      "mobile": 9702225346,
+      "company": "Pyzon",
+      "title": "Backend Developer",
+      "groupId": "11"
+    },
+    {
+      "id": "bb0f",
+      "name": "shaziya",
+      "photo": "https://cdn-icons-png.flaticon.com/512/3135/3135823.png",
+      "email": "shaziya@gmail.com",
+      "mobile": 9702225346,
+      "company": "Pyzon",
+      "title": "Junior Python Developer",
+      "groupId": "11"
+    }
+  ],
+  "groups": [
+    {
+      "id": "11",
+      "name": "MCC"
+    },
+    {
+      "id": "12",
+      "name": "Radiance"
+    },
+    {
+      "id": "13",
+      "name": "MAF"
+    }
+  ]
 }
